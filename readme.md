@@ -12,4 +12,4 @@ It's quite ugly code right now, but if you want to run something like this yours
 
 # Suggestions and Concerns
 
-If you have thoughts, bugs, suggestions or additional sources please reach out to me at brice.c.green@gmail.com.
+If you have thoughts, bugs, suggestions or additional sources please post a note or reach out to me.
